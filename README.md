@@ -2,8 +2,9 @@
 
 ### Introduction
 
-Hadouken is a suite of DeFi products on Nervos Godwoken that enable users to trade, borrow, and lend a variety of cryptocurrencies. Aside from being the first stablecoin swap on Godwoken, Hadouken is also the first lending protocol where users can borrow against and lend their CKB.
+Hadouken is a community-driven decentralized finance (Defi) protocol with a suite of products: trading, portfolio management, liquidity provision, borrowing and lending built on the Godwoken Layer 2 blockchain on top of Nervos Network.
 
-Previously, holders of CKB were unable to unlock boosted rewards for their tokens. Using highly vetted codebases from projects such as Curve, Balancer, and Aave, Hadouken has brought several key DeFi products to Godwoken for the very first time.
+Hadouken builds on top of Balancer v2 and Aave v2, two of the most successful and proven protocols to bring the best in class Defi products to the Nervos ecosystem. Hadouken is designed to maximize capital efficiency. By putting multiple products under the same umbrella, Hadouken can provision liquidity simutaneously into multiple products, reduces idle capital and boosts yield.
 
-First and foremost, Hadouken is community-driven. Join our Discord to interact with the team and stay up-to-date on future product iterations!
+Hadouken aims to be fair, community driven and stays for the long run. Instead of providing aggressive incentives to grow at all cost we’d like to take a delibrate and measured approach and grow organically with our early supporters, while providng sustainable value.  
+
