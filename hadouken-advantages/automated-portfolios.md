@@ -24,4 +24,8 @@ Due to the nature of liquidity pools and the mechanism through which they provid
 
 However, on the aggregate, liquidity providers can expect to see a decrease in volatility of their holdings. Using [an example of DAI and ETH](https://twitter.com/guil\_lambert/status/1412608674380632067) deposited into a LP on UniSwap over a three-year period, volatility averaged between 40% and 55%, versus 25% to nearly 100% for a hold strategy, though LPs should assume they will receive a lower return due to IL. If you believe in both tokens and want to hold a balanced amount (in USD) of both tokens at all times, another benefit of holding LP tokens is that they're infinitely self-rebalancing. Rather than swapping token A for token B at arbitrary intervals (e.g. daily, weekly, monthly) and incurring swap fees, by holding an LP token you are holding shares in a pool that self-rebalances with every single trade. The rebalance "fees" are covered by traders using the LP, rather than the liquidity provider.
 
-For a quantifiable amount of IL you can expect given a particular divergence in the price of two coins, you can use this [IL calculator](https://dailydefi.org/tools/impermanent-loss-calculator/).
+For a quantifiable amount of IL you can expect given a particular divergence in the price of two coins, you can use this [IL calculator](https://dailydefi.org/tools/impermanent-loss-calculator/). The chart below shows how price can impact the amount of IL that a liquidity provider will experience given a certain return (_x_) in the price of a token. For example, when a token increases 500%, the liquidity provider will incur an IL of approximately 25% versus having simply held the token.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+For more information on impermanent loss, check out [the blog post](automated-portfolios.md#portfolio-theory) where the prior example came from.
