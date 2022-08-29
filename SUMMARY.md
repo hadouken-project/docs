@@ -2,12 +2,6 @@
 
 * [Welcome](README.md)
 
-## Background
-
-* [What is Hadouken](background/what-is-hadouken.md)
-* [Why Godwoken](background/why-godwoken.md)
-* [Why Pair The Two](background/why-pair-the-two.md)
-
 ## Hadouken Advantages
 
 * [Cross-Product Capital Efficiency](hadouken-advantages/cross-product-capital-efficiency.md)
