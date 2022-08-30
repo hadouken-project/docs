@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Welcome](README.md)
-
 ## Hadouken Advantages
 
 * [Cross-Product Capital Efficiency](hadouken-advantages/cross-product-capital-efficiency.md)
