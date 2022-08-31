@@ -2,7 +2,7 @@
 
 ## Hadouken Advantages
 
-* [Cross-Product Capital Efficiency](hadouken-advantages/cross-product-capital-efficiency.md)
+* [Cross-Product Capital Efficiency](README.md)
 * [Automated Portfolios](hadouken-advantages/automated-portfolios.md)
 * [Versatile Liquidity Pools](hadouken-advantages/versatile-liquidity-pools.md)
 * [Crowdsourced Liquidation](hadouken-advantages/crowdsourced-liquidation.md)
