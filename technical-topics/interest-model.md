@@ -16,7 +16,7 @@ Below are sample interest rate curves for some assets, and a table showing for e
 
 **ETH** :&#x20;
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 **Other :**&#x20;
 

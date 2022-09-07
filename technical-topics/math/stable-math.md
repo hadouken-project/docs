@@ -12,7 +12,7 @@ StableSwap approaches Constant Product as A->0 and Constant Sum as A->∞
 
 Since the Stable Math equation is quite complex, determining the invariant, _D_, is typically done iteratively. For an example of how to do this, please refer to [this function](https://github.com/georgeroman/balancer-v2-pools/blob/main/src/pools/stable/math.ts#L16).
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Where:
 
