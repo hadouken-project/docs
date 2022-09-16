@@ -6,7 +6,7 @@ In short, this is how it works. B.Protcol pools users' funds into a "backstop po
 
 \_\_\_
 
-Liquidations are an essential part of CDPs. When an account’s total health factor as described above is below 1, anyone can make a _liquidationCall()_ to the _LendingPool_ contract, paying back part of the debt owed, and receiving discounted collateral (based on the aforementioned liquidation bonus).
+Liquidations are an essential part of decentralised lending platforms. When an account’s total health factor as described above is below 1, anyone can make a _liquidationCall()_ to the _LendingPool_ contract, paying back part of the debt owed, and receiving discounted collateral (based on the aforementioned liquidation bonus).
 
 In the event that an account’s health factor is below 1 but there are no willing market participants to initiate the liquidation, the borrower lives to see another day ! Most lending protocols have automated bots built by third parties to participate in this type of profitable transaction. Of course, profitability depends on the size of the loan being liquidated, the gas costs of doing so, and the like.
 
