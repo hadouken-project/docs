@@ -12,7 +12,7 @@
 
 ## Using Hadouken
 
-* [Trade Tokens](using-hadouken/trade-tokens.md)
+* [Tokens](using-hadouken/trade-tokens.md)
 * [Pools and Portfolios](using-hadouken/pools-and-portfolios.md)
 * [Borrow and Lend](using-hadouken/borrow-and-lend.md)
 * [Liquidity Bootstrap](using-hadouken/liquidity-bootstrap.md)
