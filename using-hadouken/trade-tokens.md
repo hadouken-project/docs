@@ -14,6 +14,10 @@ Similar to Aave's aTokens, Hadouken has hTokens, which are minted and burned upo
 
 Like with other DEXes, Hadouken uses LP tokens that under the hood closely resemble Balancer's BPTs (Balancer Pool Tokens). These tokens represent proportional ownership in a given pool's liquidity. When users add liquidity, they receive BPTs proportional to the amount of assets being added to the pool. When they exit the pool, these BPTs are burned and the user receives their pro-rata share of deposited assets.
 
+**Celer Tokens**
+
+[Celer](https://www.celer.network/technology) is a blockchain interoperability protocol that allows for ease of use through cTokens, which are natively cross-chain interoperable tokens that represent 135 different assets across 37 different blockchains. Hadouken supports cTokens in some liquidity / trading pools.
+
 **Trading Tokens**
 
 Hadouken's DEX allows users to trade tokens without the need for a centralised exchange or other trusted third party. By connecting their MetaMask, users can access the liquidity pools on Hadouken to swap between various pairs, including stablecoins and ETH pairs.
