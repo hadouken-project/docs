@@ -12,6 +12,6 @@ First, you will be prompted to switch network in MetaMask back to Ethereum. Then
 
 After confirming, wait a short while, then you will have another MetaMask prompt to confirm the actual bridge transaction.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 Once the transaction has been confirmed by the Ethereum blockchain, you should see your balances reflected on Hadouken.
