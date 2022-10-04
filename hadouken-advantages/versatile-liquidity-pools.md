@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pools are the fundamental building blocks of the Hadouken Protocol; they are smart contracts that define how traders can swap between tokens on Hadouken. What makes Hadouken Pools unique from those of other protocols is their limitless flexibility. While other exchanges have pools with constrained parameters, Hadouken can accommodate pools of any composition and underlying math. Hadouken's architecture allows for anyone to develop their own pool type, opening the door for customized pricing functions in trading pools.
+Hadouken inherits Balancer's versatile liquidity pools. While other protocols have pools with constrained parameters, Hadouken can accommodate pools of any composition and underlying math. Hadouken's architecture allows for anyone to develop their own pool type, opening the door for customized pricing functions in trading pools.
 
 ## Pools At A Glance <a href="#pools-at-a-glance" id="pools-at-a-glance"></a>
 
