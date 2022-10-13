@@ -42,7 +42,6 @@
 ## Ecosystem
 
 * [Governance](ecosystem/governance.md)
-* [Safety Module](ecosystem/safety-module.md)
 
 ## Community
 
