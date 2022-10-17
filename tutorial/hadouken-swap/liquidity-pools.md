@@ -26,5 +26,5 @@ Withdrawing from a pool is just as easy. First, click "withdraw," then decide wh
 
 In this case, let's say I want to withdraw 100% of my liquidity, in CKB. In that case, I would receive 198.76 CKB (due to the pool's imbalance). However, if I choose dCKB, I receive 201.13 dCKB. Let's go with that.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 

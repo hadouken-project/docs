@@ -4,7 +4,7 @@ Performing an asset swap on Hadouken will feel familiar if you've used Balancer,
 
 One step that might seem unfamiliar involves initialising a Godwoken (Nervos layer 2) account.
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 Once you have sent at least 470 CKB to the address given by the prompt, click "create account" and wait a few minutes.
 

@@ -18,6 +18,6 @@ Two final concepts vital for a lending product are health factor and reserve fac
 
 Below is a table of the various LTV, liquidation threshold, and liquidation bonus values for each supported asset. Liquidation bonuses can be slightly higher to start, to bootstrap various liquidation initiatives (i.e. B Protocol’s liquidation bot).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 _For more information on asset risk, please refer to_ [_Aave's documentation_](https://docs.aave.com/risk/asset-risk/risks-per-asset)_._
