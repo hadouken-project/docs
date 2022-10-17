@@ -8,7 +8,7 @@ Weighted Math is designed to allow for swaps between any assets whether or not t
 
 The value function V is defined as:
 
-​​![](<../../.gitbook/assets/image (20).png>)
+​​![](<../../.gitbook/assets/image (20) (1).png>)
 
 Where
 

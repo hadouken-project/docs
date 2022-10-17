@@ -12,7 +12,7 @@ Below are sample interest rate curves for some assets, and a table showing for e
 
 **USDC** :&#x20;
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 **ETH** :&#x20;
 

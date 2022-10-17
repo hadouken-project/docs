@@ -6,7 +6,7 @@ Other optional features of LBPs that can be used to prevent undesirable side eff
 
 There are many advantages of using a LBP to bootstrap a token sale. First, the sell pressure created by the market - mixed with modest trading volume - helps the token price generally approach the agreed-upon fair market price. Next, by starting with an intentionally high price, whales and bots are disincentivised from purchasing tokens early (unless they really want them, not just to flip as the price typically declines over time in a LBP sale). Next, starting capital can be small for bootstrapping and significantly more capital efficient than other token sale mechanisms. For example, running an LBP with _Token A_ and DAI, the bootstrapping team can begin with 10-20% DAI, as opposed to the 50% they might need if conducting the sale in another manner. Because LBPs use the math from Balancer's Weighted Pools, large disparities in the composition of the pool need not affect the price.
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the graphic above, the red line demonstrates price over time as dictated by the smart contract. At the launch, there are few buyers due to the high price. As the price slowly declines, traders step in and purchase the token. Arbitrage maintains this price for the duration of the LBP sale, as shown by the blue line. On the other hand, the green line shoes what happens when the initial price is too low. The asset gets bought up immediately upon launch, and the price then declines are no other buyers are willing to pay the same high price.
 

@@ -4,7 +4,7 @@ Hadouken is natively integrated with Force Bridge, allowing you to bridge tokens
 
 Navigate to the [bridge](https://app.hadouken.finance/bridge) page, and choose the desired source chain. In this example, let's try Ethereum.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (10).png>)
 
 First, you will be prompted to switch network in MetaMask back to Ethereum. Then, let's say you want to bridge 100 USDT. Type 100 into the appropriate field, and click "deposit." You will first need to pay a transaction fee to let Hadouken access your USDT.
 
