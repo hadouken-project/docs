@@ -2,7 +2,7 @@
 
 On the lending page, you will see a list of assets that you can borrow and lend on the platform.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Navigate to the dashboard and you will see your deposits, and - if applicable - any outstanding loans.
 
@@ -22,8 +22,12 @@ Now head over to the borrow page and view what amounts are available to borrow.
 
 Choosing WBTC, you can initiate a borrow based on your amount of posted collateral.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 Click borrow and confirm the MetaMask prompts. If you navigate back to the dashboard, you should see your open borrows and deposits.
 
 ![](<../.gitbook/assets/image (1).png>)
+
+To repay, click repay, choose the amount you wish to repay (ideally click max) and submit the transaction. Confirm it on MetaMask like any other transaction and you're all set.
+
+![](../.gitbook/assets/image.png)
