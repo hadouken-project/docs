@@ -10,6 +10,8 @@ Ethereum-native assets on Godwoken are brought over by a Hadouken-customised imp
 
 Similar to Aave's aTokens, Hadouken has hTokens, which are minted and burned upon the supply and withdraw of assets to one of Hadouken's lending pools. hTokens are pegged 1:1 to the value of the underlying asset, and can be stored, transferred, and traded just like normal tokens, as well as deposited into the backstop pool for additional yields.
 
+Only certain tokens are whitelisted for use within Hadouken. Any token that is not a standard ERC-20 token needs to go through an especially strict vetting process, and might not be supported. For example, Hadouken does not currently support rebasing tokens and has no plans to support them in the future.
+
 **LP Tokens**
 
 Like with other DEXes, Hadouken uses LP tokens that under the hood closely resemble Balancer's BPTs (Balancer Pool Tokens). These tokens represent proportional ownership in a given pool's liquidity. When users add liquidity, they receive BPTs proportional to the amount of assets being added to the pool. When they exit the pool, these BPTs are burned and the user receives their pro-rata share of deposited assets.

@@ -39,10 +39,6 @@
   * [Weighted Math](technical-topics/math/weighted-math.md)
   * [Stable Math](technical-topics/math/stable-math.md)
 
-## Ecosystem
-
-* [Governance](ecosystem/governance.md)
-
 ## Community
 
 * [Discord](https://discord.gg/G2TG9SBC7Q)
