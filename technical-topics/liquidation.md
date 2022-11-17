@@ -2,13 +2,13 @@
 
 Liquidation is the process of repaying another user's debt when their loan position is underwater by a certain threshold, and in turn receiving the underlying collateral. Only users below a health factor of 1.0 can be liquidated. This can happen when debt value grows relative to collateral - either when the collateral price drops or the borrowed token price goes up. Single liquidation calls can only liquidate up to 50% of total debt.
 
-### Why is liquidation happening?&#x20;
+### What causes liquidation?&#x20;
 
-Liquidation is necessary for the lending ecosystem to stay healthy - it protects users who deposit to the pool from losing their funds and profits. If no one participated in liquidation, the whole lending platform would become unstable. Liquidators are incentivized to participate in the liquidation ecosystem by receiving a liquidation bonus (about 5-7% depending on the asset) that comes from the liquidated user’s collateral.
+Liquidation is necessary for the lending ecosystem to stay healthy - it protects users who deposit to the pool from losing their funds and profits. If no one participated in liquidation, the whole lending platform would become unstable since the platform's assets would not be sufficient to cover each user's amount deposited. Liquidators are incentivized to participate in the liquidation ecosystem by receiving a liquidation bonus (about 5-7% depending on the asset) that comes from the liquidated user’s collateral.
 
 ### Who can participate in liquidation?
 
-Anyone can take part in the liquidation ecosystem. For example, by writing a liquidation bot that fetches data about reserves, users, and deposit and borrows, then calculates health factor for each user, and finally performs a liquidation call for anyone below a health factor of 1.0.
+Anyone can take part in the liquidation ecosystem. For example, by writing a liquidation bot that fetches data about reserves, users, and deposit and borrows, calculates the health factor for each user, and finally performs a liquidation call for anyone below a health factor of 1.0.
 
 ### How to avoid being liquidated
 
