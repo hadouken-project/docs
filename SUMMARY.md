@@ -18,10 +18,10 @@
 
 ## Tutorial
 
-* [Swaps](tutorial/swaps.md)
-* [Borrowing/Lending](tutorial/hadouken-lend.md)
+* [Performing Swaps](tutorial/swaps.md)
 * [Liquidity Pools](tutorial/liquidity-pools.md)
-* [Bridge](tutorial/bridge.md)
+* [Borrowing/Lending](tutorial/hadouken-lend.md)
+* [Bridging Assets](tutorial/bridge.md)
 
 ## Technical Topics
 
