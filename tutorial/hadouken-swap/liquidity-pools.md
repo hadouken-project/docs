@@ -1,30 +1,41 @@
 # Liquidity Pools
 
-Head over to the "pools" page, where you will see a few different liquidity pools, their current rewards (in the form of trading fees), and volume.
+If you hover over the liquidity button on the navigation tab, click on the "pools" page, where you will see several different liquidity pools, their TVL, volume, and current APR (rewards in the form of trading fees, and in some cases, lending rewards).
 
-![](<../../.gitbook/assets/image (26).png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Let's say we want to add liquidity to the goukenPool in the form of 100 CKB and 100 dCKB.
+Let's say we want to add liquidity to the USDC/USDT pool. First, click on that pool. You will see the pool's TVL, volume, 24h fees, and APR, as well as your balance in the pool. In this example, our wallet has over $400k in the pool, but we want to add more. Click invest on the right side of the screen.
 
-![](<../../.gitbook/assets/image (31).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-First, we navigate to the page in question, then scroll down and input the desired values into the appropriate fields.
+You will be redirected to a page where you can input your desired investment amounts. In this case, let's deposit 200,000 of each token. (For weighted pools, you will be given an option to click "proportional suggestion" after inputting one amount, such that you can minimize price impact when entering a pool with multiple assets. This doesn't apply in this case.)
 
-![](<../../.gitbook/assets/image (11).png>)
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Upon confirming the transaction(s) in the MetaMask popup(s), you should see "transfer pending."
+First, we navigate to the page in question, then scroll down and input the desired values into the appropriate fields. Then click preview.
 
-![](<../../.gitbook/assets/image (24).png>)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Once the transaction has been verified by the blockchain, you will see your balances have updated. Note the 199.7 gouken\_LP tokens.
+On the ensuing prompt, you can review your summary total, and click invest. You will then receive a MetaMask popup (or, in some cases, multiple if you haven't already approved spend on Hadouken for each individual token).
 
-![](<../../.gitbook/assets/image (35).png>)
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-Withdrawing from a pool is just as easy. First, click "withdraw," then decide whether you want to receive one of the pool's tokens, the other of the pool's tokens, or an equal blend of both.
+Upon clicking confirm, you will wait a short while, then see that your transaction has confirmed.
 
-![](<../../.gitbook/assets/image (25).png>)
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-In this case, let's say I want to withdraw 100% of my liquidity, in CKB. In that case, I would receive 198.76 CKB (due to the pool's imbalance). However, if I choose dCKB, I receive 201.13 dCKB. Let's go with that.
+If you wish to exit the pool, the process is similar. First, go back to the pool page, then click withdraw on the right side. You will be redirected to a page that looks like this.
 
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+By default, a proportional withdraw of each token is selected, with the assumption that the user wants to withdraw 30% of their position in the pool. However, if you click "all tokens," you can choose either USDC or USDT, if you wish to withdraw your LP token shares into a single asset. In this case, let's choose to receive a blend, but move the slider to 50%.
+
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+The amount of each token received upon exiting the pool is updated in real time as you move the slider. Once you've chosen 50%, click preview. You will see the approximate amount of tokens you should expect to receive, less any slippage.
+
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+Upon clicking withdraw, you will receive a MetaMask prompt. Click confirm, and you should have your tokens back shortly !
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
