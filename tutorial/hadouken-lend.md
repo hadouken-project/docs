@@ -26,8 +26,8 @@ Choosing WBTC, you can initiate a borrow based on your amount of posted collater
 
 Click borrow and confirm the MetaMask prompts. If you navigate back to the dashboard, you should see your open borrows and deposits.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 To repay, click repay, choose the amount you wish to repay (ideally click max) and submit the transaction. Confirm it on MetaMask like any other transaction and you're all set.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
