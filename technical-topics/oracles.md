@@ -5,7 +5,7 @@ Of the utmost importance here is the price oracle. Aave uses Chainlink. Hadouken
 1. At pre-specified intervals, asset prices are checked using a call to Band Protocol.
 2. If the price is below or equal to zero, or drastically different (e.g. >10% different) from the last price check, a call is made to the fallback price oracle (e.g. DIA).
 
-Aave is first and foremost an ETH-denominated platform, so its oracle-integrated price calls return values in wei (1/1018 ETH). Hadouken is “denominated” in either CKB or HDK, but for simplicity assets should be priced in USD terms as allowed by the oracle(s). A list of methods follow :
+Aave is first and foremost an ETH-denominated platform, so its oracle-integrated price calls return values in wei (1/10^18 ETH). For simplicity, assets on Hadouken are priced in USD terms as allowed by the oracles. A list of methods follow :
 
 * _getAssetPrice() : Returns the price of the supported \_asset._
 * _getAssetsPrices() : Returns an array of prices._
@@ -29,4 +29,4 @@ The Oracle Script Execution Flow is as follows :
 
 An oracle script can be registered into the system by anyone by the registrant sending a _MsgCreateOracleScript_ message to the chain. In this message, they specify parameters including the schema, name, and description of the oracle script, .wasm file (binary code saved in the WebAssembly format), sender / owner of the oracle script.
 
-More information can be found on [Band Protocol’s GitBook](https://docs.bandchain.org/custom-script/data-source/introduction.html).
+**More information can be found on** [**Band Protocol’s GitBook**](https://docs.bandchain.org/custom-script/data-source/introduction.html)**.**
