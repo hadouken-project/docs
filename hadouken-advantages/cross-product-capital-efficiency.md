@@ -21,6 +21,6 @@ Here are all the capital efficiency boosting mechanisms built-in in Hadouken:
 
 Figure 3: Capital efficiencies born from combining a DEX and lending platform
 
-<figure><img src="../.gitbook/assets/image (3) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 We'll continue to work on optimizations for capital efficiency to generate yield for capital providers. Unlike other protocols that pump out high token emissions to attract capital, we see this as a critical path towards providing long-term sustainable value to our users.

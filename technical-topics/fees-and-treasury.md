@@ -12,7 +12,7 @@ Traders pay swap fees when they trade with a pool. The fees ultimately go to Liq
 
 Let's say Alice, Bob, Chuck, and Diana all provide liquidity in the same pool starting out with a total value of $100. After some time, the pool has collected many trade fees and is now worth $200. The pool itself grows while the Liquidity Providers' proportional shares stay the same.
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 ![](https://2409820166-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWZrc\_wdLRZXvxl5Xwv%2F-MguL0VDuq8Ro9e3deZt%2F-MguhSCouPXUk6hvNnmO%2FScreen%20Shot%202021-08-12%20at%2010.10.06%20AM.png?alt=media\&token=df1ce268-123a-4239-b1ed-673747ce2cd8)
 

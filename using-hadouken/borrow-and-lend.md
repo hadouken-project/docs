@@ -8,6 +8,6 @@ On the other side naturally is borrowing. Often times, an investor might want to
 
 Depending on the collateral asset, a user can typically borrow about 35% of the posted collateral. They are then assigned a health factor, which represents the safety of a user's deposited assets against the borrowed assets and their underlying value. As the value of the collateral changes, the health factor changes. A higher health factor is better, and a lower health factor puts the borrower at risk of liquidation, which occurs when the health factor reaches 1. If the health factor approaches 1, the borrower can either repay part or all of the loan, or post more collateral against the loan to avoid liquidation. The chart below includes the relevant LTV values for each asset, as well as the liquidation threshold at which point a hypothetical position would be liquidated, along with some other figures.
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 [_**For more information, please refer to Aave's docs**_](https://docs.aave.com/faq/borrowing).
