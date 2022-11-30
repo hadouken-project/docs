@@ -4,7 +4,7 @@ Hadouken is natively integrated with Force Bridge, allowing you to bridge tokens
 
 Navigate to the [bridge](https://app.hadouken.finance/bridge) page, and choose the desired source chain. In this example, let's try Ethereum. If you get a prompt saying to change networks, it's just because _CKB -> Godwoken_ is selected by default. Under "Select bridge," choose _Ethereum -> Godwoken_.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 Once you switch your network in MetaMask to Ethereum, let's say you want to bridge 100 USDT. Choose USDT from the menu under "Select asset and enter amount." Then type 100 into the appropriate field, and click "deposit." You will first need to pay a transaction fee to let Hadouken access your USDT. If you want to give Hadouken permission to use more than just 100 USDT - for example, if you think you might want to bridge more funds in the future - click "Edit permission" and adjust it there, though this isn't recommended for most users.
 

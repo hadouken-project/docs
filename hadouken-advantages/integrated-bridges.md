@@ -4,4 +4,4 @@ Hadouken Bridge integrates with [Force Bridge](https://forcebridge.com/bridge/Et
 
 Further, utilising the Hadouken Bridge to bring funds over from Ethereum will both initiate the user's Godwoken account _and_ fund it with a nominal amount of CKB for fees. You don't need anything besides an Ethereum wallet connected to MetaMask, in order to get started on Hadouken ! Other bridges and chains will be supported in the future.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

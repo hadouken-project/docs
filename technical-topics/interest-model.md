@@ -8,11 +8,11 @@ Below are sample interest rate curves for some assets, and a table showing for e
 
 **Variable Rates :**&#x20;
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 **USDC** :&#x20;
 
-![](<../.gitbook/assets/image (10) (1) (1).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 **ETH** :&#x20;
 
@@ -20,4 +20,4 @@ Below are sample interest rate curves for some assets, and a table showing for e
 
 **Other :**&#x20;
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)

@@ -16,4 +16,4 @@ The flip side of the reduced portfolio risk is the potential for [impermanent lo
 
 For a quantifiable amount of IL you can expect given a particular divergence in the price of two coins, you can use this [IL calculator](https://dailydefi.org/tools/impermanent-loss-calculator/). The chart below shows how price can impact the amount of impermanent loss that a liquidity provider will experience given a certain return (_x_) in the price of a token. For example, when a token increases 500%, the liquidity provider will incur an IL of approximately 25% versus having simply held the token.
 
-<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
