@@ -19,7 +19,7 @@
 ## Tutorial
 
 * [Performing Swaps](tutorial/swaps.md)
-* [Liquidity Pools](tutorial/liquidity-pools.md)
+* [Adding/Removing Liquidity](tutorial/liquidity-pools.md)
 * [Borrowing/Lending](tutorial/hadouken-lend.md)
 * [Bridging Assets](tutorial/bridge.md)
 

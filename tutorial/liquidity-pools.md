@@ -1,4 +1,4 @@
-# Liquidity Pools
+# Adding/Removing Liquidity
 
 If you hover over the liquidity button on the navigation tab, click on the "pools" page, where you will see several different liquidity pools, their TVL, volume, and current APR (rewards in the form of trading fees, and in some cases, lending rewards).
 
