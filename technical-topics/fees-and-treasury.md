@@ -12,9 +12,9 @@ Traders pay swap fees when they trade with a pool. The fees ultimately go to Liq
 
 Let's say Alice, Bob, Chuck, and Diana all provide liquidity in the same pool starting out with a total value of $100. After some time, the pool has collected many trade fees and is now worth $200. The pool itself grows while the Liquidity Providers' proportional shares stay the same.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (16).png>)
 
-<figure><img src="https://2409820166-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWZrc_wdLRZXvxl5Xwv%2F-MguL0VDuq8Ro9e3deZt%2F-MguhSCouPXUk6hvNnmO%2FScreen%20Shot%202021-08-12%20at%2010.10.06%20AM.png?alt=media&#x26;token=df1ce268-123a-4239-b1ed-673747ce2cd8" alt=""><figcaption></figcaption></figure>
+![](https://2409820166-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MWZrc\_wdLRZXvxl5Xwv%2F-MguL0VDuq8Ro9e3deZt%2F-MguhSCouPXUk6hvNnmO%2FScreen%20Shot%202021-08-12%20at%2010.10.06%20AM.png?alt=media\&token=df1ce268-123a-4239-b1ed-673747ce2cd8)
 
 ### Static and Dynamic Fees <a href="#static-and-dynamic-fees" id="static-and-dynamic-fees"></a>
 
@@ -26,4 +26,4 @@ Protocol Swap Fees are a percentage of swap fees collected by pools. These go to
 
 ## **Flash Loan Fees** <a href="#flash-loan-fees" id="flash-loan-fees"></a>
 
-Flash Loan fees are a type of Protocol Fee. The fees collected as interest on flash loans go to the DAO Treasury. Flash loan fees are set to zero, and as of this writing they have not been activated by governance.
+Flash Loan fees are a type of Protocol Fee on Balancer. The fees collected as interest on flash loans go to the DAO Treasury. Flash loan fees are set to zero, and as of this writing they have not been activated by governance.
