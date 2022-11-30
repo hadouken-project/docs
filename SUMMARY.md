@@ -18,10 +18,9 @@
 
 ## Tutorial
 
-* [Hadouken Swap](tutorial/hadouken-swap/README.md)
-  * [Swaps](tutorial/hadouken-swap/swaps.md)
-  * [Liquidity Pools](tutorial/hadouken-swap/liquidity-pools.md)
-* [Hadouken Lend](tutorial/hadouken-lend.md)
+* [Swaps](tutorial/swaps.md)
+* [Borrowing/Lending](tutorial/hadouken-lend.md)
+* [Liquidity Pools](tutorial/liquidity-pools.md)
 * [Bridge](tutorial/bridge.md)
 
 ## Technical Topics
