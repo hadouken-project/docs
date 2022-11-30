@@ -50,11 +50,11 @@ With $2.13 million in deposits, and $677.9k in borrows, we've used 93.46% of our
 
 Let's say the price of ETH moves against us (i.e. it goes down) and we wish to repay part of the loan to keep our health factor in a desirable range, we would click repay on the bottom right of this screen.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 In this case, let's repay just under half of our loan, or 250 ETH. Enter 250 into the field, and click repay. This should bring our health factor to 2.63, which makes sense as it's a little less than double our previous health factor (note that prices didn't change in this scenario, though we're imagining that they did). Confirm the prompt in MetaMask and wait for the notifications to turn green.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 If you navigate back to the dashboard, you'll see that you're now using less than half of your borrowing power.
 

@@ -1,14 +1,8 @@
 # Interest Model
 
-Below are sample interest rate curves for some assets, and a table showing for each supported asset the optimal utilisation (U), initial slope, and slope after U is passed.
+Below are sample interest rate curves for some assets, and a table showing for each supported asset the optimal utilisation (U), initial slope, and slope after U is passed. Note, currently only variable borrow rates are supported.
 
-**Stable Rates :**&#x20;
-
-<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
-
-**Variable Rates :**&#x20;
-
-<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **USDC** :&#x20;
 

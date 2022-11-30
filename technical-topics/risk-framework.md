@@ -12,7 +12,7 @@ The liquidation threshold (LT) is the value where a position becomes undercollat
 
 There’s another concept called a liquidation bonus (LB), which is a bonus on the price of assets of the collateral when liquidators purchase it as part of the liquidation of a loan that has passed the LT. In general, the LB is 5-10%, and we're using 10% to start.
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Two final concepts vital for a lending product are health factor and reserve factor. Health factor is a value that can when below 1 result in liquidation to maintain solvency, and is calculated using the formula below. The reserve factor allocates a share of the protocol’s interests to a collector contract as reserve for the ecosystem.
 
