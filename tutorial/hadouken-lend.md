@@ -22,7 +22,7 @@ Now head over to the borrow page and view what amounts are available to borrow.
 
 Choosing WBTC, you can initiate a borrow based on your amount of posted collateral.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 Click borrow and confirm the MetaMask prompts. If you navigate back to the dashboard, you should see your open borrows and deposits.
 

@@ -7,7 +7,6 @@
 * [Maximizing Capital Efficiency](hadouken-advantages/cross-product-capital-efficiency.md)
 * [Automated Portfolios](hadouken-advantages/automated-portfolios.md)
 * [Versatile Liquidity Pools](hadouken-advantages/versatile-liquidity-pools.md)
-* [Crowdsourced Liquidation](hadouken-advantages/crowdsourced-liquidation.md)
 * [Integrated Bridges](hadouken-advantages/integrated-bridges.md)
 
 ## Using Hadouken
