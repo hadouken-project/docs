@@ -19,8 +19,6 @@ Here are all the capital efficiency boosting mechanisms built-in in Hadouken:
 5. Liquidity pools and investment portfolios provide rebalancing liquidity to backstop pools
 6. Backstop pools increase trading demand on trading liquidity to increase return on the investment portfolios
 
-Figure 3: Capital efficiencies born from combining a DEX and lending platform
+<figure><img src="../.gitbook/assets/image (3) (3) (1).png" alt=""><figcaption><p> Figure 3: Hadouken's Capital Efficiency Mechanisms</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (3) (1).png" alt=""><figcaption></figcaption></figure>
-
-We'll continue to work on optimizations for capital efficiency to generate yield for capital providers. Unlike other protocols that pump out high token emissions to attract capital, we see this as a more sustainable way towards providing long-term value to our users.
+We'll continue to work on optimizations for capital efficiency to generate organic yield for capital providers. Instead of relying governance token emission to boost yield, we see this as a more sustainable way towards providing long-term value to our users.
