@@ -2,15 +2,13 @@
 
 Hadouken supports all Godwoken-enabled assets including [pCKB](https://docs.godwoken.io/integration#pckb) and Force Bridge enabled assets from Ethereum and Binance Smart Chain including ETH, WBTC, USDT, USDC, and BNB. pCKB is to Godwoken what ETH is to the Ethereum chain. To use Hadouken on Godwoken, users have to have enough pCKBs (often displayed as just CKBs) in their wallets.
 
-**Bridged Assets**
+**Bridged Tokens**
 
 Ethereum-native assets on Godwoken are brought over by a Hadouken-customised implementation of [Force Bridge](https://forcebridge.com/bridge/Ethereum/Nervos). Force Bridge supports many ERC-20 (from Ethereum) and BEP-20 (from Binance Smart Chain) tokens, but Hadouken only supports a subset of those tokens to start. There are both ERC-20 and BEP-20 versions of USDC and USDT available on Hadouken, as well as liquidity pools to swap between the two.
 
 **hTokens**
 
 Similar to Aave's aTokens, Hadouken has hTokens, which are minted and burned upon the supply and withdraw of assets to one of Hadouken's lending pools. hTokens are pegged 1:1 to the value of the underlying asset, and can be stored, transferred, and traded just like normal tokens, as well as deposited into the backstop pool for additional yields.
-
-Only certain tokens are whitelisted for use within Hadouken. Any token that is not a standard ERC-20 token needs to go through an especially strict vetting process, and might not be supported. For example, Hadouken does not currently support rebasing tokens and has no plans to support them in the future.
 
 **BPT Tokens**
 
