@@ -1,4 +1,4 @@
-# Integrated Bridges
+# Integrated Bridge
 
 Hadouken integrates with [Force Bridge](https://forcebridge.com/bridge/Ethereum/Nervos) to allow users to bridge funds over to Godwoken from Nervos Layer 1, Ethereum, or Binance Smart Chain (BSC). Hadouken skips the extra step of having to bridge from Nervos Layer 1 to Godwoken using the [Godwoken bridge](https://bridge.godwoken.io/#/v1/deposit/pending), and does it for you all in one step.
 
