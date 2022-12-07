@@ -1,14 +1,14 @@
-# Adding/Removing Liquidity
+# Add or Remove Liquidity
 
-If you hover over the liquidity button on the navigation tab, click on the "pools" page, where you will see several different liquidity pools, their TVL, volume, and current APR (rewards in the form of trading fees, and in some cases, lending rewards).
+To add or remove liquidity, go to the "Pools" page, where you will see the available liquidity pools, their TVL, volume, and current APR.
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-Let's say we want to add liquidity to the USDC/USDT pool. First, click on that pool. You will see the pool's TVL, volume, 24h fees, and APR, as well as your balance in the pool. In this example, our wallet has over $400k in the pool, but we want to add more. Click invest on the right side of the screen.
+Let's say we want to add liquidity to the USDC/USDT pool. First, click on that pool. You will see the pool's TVL, volume, 24h fees, and APR, as well as your balance in the pool. In this example, our wallet has over $400k in the pool, but we want to add more. Click on "invest" on the right side of the screen.
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-You will be redirected to a page where you can input your desired investment amounts. In this case, let's deposit 200,000 of each token. (For weighted pools, you will be given an option to click "proportional suggestion" after inputting one amount, such that you can minimize price impact when entering a pool with multiple assets. This doesn't apply in this case.)
+You will be redirected to a page where you can input your desired investment amounts. In this case, let's deposit 200,000 of each token.
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 

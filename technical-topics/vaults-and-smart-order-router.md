@@ -6,7 +6,7 @@ The Smart Order Router (SOR) finds the best prices for Hadouken traders. For giv
 
 ## Utilize All the Liquidity <a href="#utilize-all-the-liquidity" id="utilize-all-the-liquidity"></a>
 
-As the variety of [pools ](https://docs.balancer.fi/products/smart-order-router)grows, the SOR grows too! The SOR keeps expanding as new pool types that use different math under the hood are added. This ensures that all pools in the Hadouken ecosystem can support trades. By integrating with the SOR, any custom pool built on Hadouken can benefit from all the other Hadouken liquidity. All you need to integrate a pool is first and second order differentiable `spotPriceAfterSwap` functions (differentiable either numerically or analytically).
+As the variety of [pools](https://docs.balancer.fi/products/smart-order-router)grows, the SOR grows too! The SOR keeps expanding as new pool types that use different math under the hood are added. This ensures that all pools in the Hadouken ecosystem can support trades. By integrating with the SOR, any custom pool built on Hadouken can benefit from all the other Hadouken liquidity. All you need to integrate a pool is first and second order differentiable `spotPriceAfterSwap` functions (differentiable either numerically or analytically).
 
 ## Taking Gas Into Account <a href="#taking-gas-into-account" id="taking-gas-into-account"></a>
 
