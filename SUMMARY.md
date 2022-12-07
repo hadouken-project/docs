@@ -18,7 +18,6 @@
 * [Liquidation](technical-topics/liquidation.md)
 * [Oracles](technical-topics/oracles.md)
 * [Interest Model](technical-topics/interest-model.md)
-* [Math](technical-topics/math/README.md)
 * [Weighted Math](technical-topics/math/weighted-math.md)
 * [Stable Math](technical-topics/math/stable-math.md)
 
