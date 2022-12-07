@@ -14,10 +14,10 @@
 * [Tokens](using-hadouken/trade-tokens.md)
 * [Audits](technical-topics/audits.md)
 * [Deployments](technical-topics/deployments.md)
-* [Risk Framework](technical-topics/risk-framework.md)
-* [Liquidation](technical-topics/liquidation.md)
-* [Oracles](technical-topics/oracles.md)
 * [Interest Model](technical-topics/interest-model.md)
+* [Risk Framework](technical-topics/risk-framework.md)
+* [Oracles](technical-topics/oracles.md)
+* [Liquidation](technical-topics/liquidation.md)
 
 ## Community
 
