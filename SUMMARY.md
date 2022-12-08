@@ -5,6 +5,7 @@
 ## Hadouken Advantages
 
 * [Maximizing Capital Efficiency](hadouken-advantages/cross-product-capital-efficiency.md)
+* [Pool Based Borrowing](hadouken-advantages/pool-based-borrowing.md)
 * [Automated Portfolios](hadouken-advantages/automated-portfolios.md)
 * [Versatile Liquidity Pools](hadouken-advantages/versatile-liquidity-pools.md)
 * [Integrated Bridges](hadouken-advantages/integrated-bridges.md)
@@ -18,6 +19,10 @@
 * [Risk Framework](technical-topics/risk-framework.md)
 * [Oracles](technical-topics/oracles.md)
 * [Liquidation](technical-topics/liquidation.md)
+
+## FAQs
+
+* [FAQs](using-hadouken/trade-tokens.md)
 
 ## Community
 
