@@ -1,4 +1,4 @@
-# Pool Based Lending and Borrowing
+# Pool Based Lending with Controlled Risks
 
 Hadouken pools deposited assets together into global markets. When users borrow, they borrow from the global market of that asset. Interest rates for each market are determined dynamically by supply and demand. This design is inspired by protocols like Compound and Aave and offers high levels of capital efficiency for over-collateralized borrowing.
 

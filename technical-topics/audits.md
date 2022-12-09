@@ -6,4 +6,4 @@ Hadouken also uses Aave V2's contracts with slight modifications to impose depos
 
 [**PeckShield - completed October 21, 2022**](https://1drv.ms/b/s!Aot8Vy9KXZMXzES5C9Yd\_GtwPCgR?e=KAQYo3)
 
-****[**ChainAudit - completed November 25, 2022**](https://1drv.ms/b/s!Aot8Vy9KXZMXzGd6LfiLNmgfb05h?e=2kGKw3)
+[**ChainAudit - completed November 25, 2022**](https://1drv.ms/b/s!Aot8Vy9KXZMXzGd6LfiLNmgfb05h?e=2kGKw3)

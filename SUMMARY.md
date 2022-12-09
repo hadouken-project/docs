@@ -5,7 +5,7 @@
 ## Hadouken Advantages
 
 * [Maximizing Capital Efficiency](hadouken-advantages/cross-product-capital-efficiency.md)
-* [Pool Based Borrowing](hadouken-advantages/pool-based-borrowing.md)
+* [Pool Based Lending with Controlled Risks](hadouken-advantages/pool-based-borrowing.md)
 * [Automated Portfolios](hadouken-advantages/automated-portfolios.md)
 * [Versatile Liquidity Pools](hadouken-advantages/versatile-liquidity-pools.md)
 * [Integrated Bridges](hadouken-advantages/integrated-bridges.md)
