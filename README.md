@@ -1,7 +1,7 @@
 # Introduction
 
-Hadouken is a community-driven decentralized finance (DeFi) protocol with a suite of products: trading, portfolio management, lending and borrowing built on Nervos Network's Layer 2 Godwoken blockchain.
+Hadouken is a decentralized finance (DeFi) protocol that offers a suite of products for trading, portfolio management, lending, and borrowing on the Nervos Network's Layer 2 Godwoken blockchain.
 
-Hadouken builds on top of Balancer and Aave, two of the most successful and proven protocols to bring the best in class DeFi products to the Nervos ecosystem. Hadouken innovates in its mechanisms to maximize capital efficiency by moving idle liquidity to more productive use, boosting liquidity providers' overall return on capital.
+Built on top of Balancer and Aave, two of the most successful and proven protocols in the DeFi space, Hadouken brings top-class DeFi products to the Nervos ecosystem. We innovate in our mechanisms to maximize capital efficiency by moving idle liquidity to more productive use, resulting in higher returns for capital providers.
 
-Hadouken aims to be fair, community-driven, and built for the long run. Instead of providing aggressive incentives to grow at all costs, we take a deliberate and measured approach and grow organically with our early supporters, while providing sustainable value.
+Our goal is to create a fair, community-driven, and long-term focused platform. Instead of aggressively pursuing growth at any cost, we take a measured approach and grow organically with our early supporters, while providing sustainable value.

@@ -12,13 +12,12 @@
 
 ## Technical Topics
 
-* [Tokens](using-hadouken/trade-tokens.md)
-* [Audits](technical-topics/audits.md)
+* [Tokens](technical-topics/tokens.md)
 * [Deployments](technical-topics/deployments.md)
 * [Interest Model](technical-topics/interest-model.md)
 * [Risk Framework](technical-topics/risk-framework.md)
 * [Oracles](technical-topics/oracles.md)
-* [Liquidation](technical-topics/liquidation.md)
+* [Audits](technical-topics/audits.md)
 
 ## FAQs
 

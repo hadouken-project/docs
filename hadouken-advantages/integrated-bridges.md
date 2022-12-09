@@ -1,7 +1,7 @@
 # Integrated Bridge
 
-Hadouken integrates with [Force Bridge](https://forcebridge.com/bridge/Ethereum/Nervos) to allow users to bridge funds over to Godwoken from Nervos Layer 1, Ethereum, or Binance Smart Chain (BSC). Hadouken skips the extra step of bridging from Nervos Layer 1 to Godwoken using the [Godwoken bridge](https://bridge.godwoken.io/#/v1/deposit/pending) and does it for you all in one step.
+Hadouken integrates with [Force Bridge](https://forcebridge.com/bridge/Ethereum/Nervos) to allow users to bridge funds from Nervos Layer 1, Ethereum, or Binance Smart Chain (BSC) to Godwoken. Hadouken simplifies the process by skipping the extra step of using the [Godwoken bridge](https://bridge.godwoken.io/#/v1/deposit/pending) to transfer funds from Nervos Layer 1 to Godwoken.
 
-Further, utilizing the Hadouken Bridge to bring funds over from Ethereum will initialize the user's Godwoken account and fund it with a nominal amount of CKB for fees. You don't need anything besides an Ethereum wallet connected to MetaMask to get started on Hadouken! Other bridges and chains will be supported in the future.&#x20;
+Additionally, using the Hadouken Bridge to bring funds from Ethereum will initialize your Godwoken account and fund it with a small amount of CKB for fees. You only need an Ethereum wallet connected to MetaMask to get started on Hadouken. Other bridges and chains will be supported in the future.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

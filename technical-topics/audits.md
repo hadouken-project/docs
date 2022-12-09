@@ -1,8 +1,8 @@
 # Audits
 
-Hakouken uses Balancer V2's contracts without changes. Balancer's audits can be found [here](https://docs.balancer.fi/security/audits).
+Hadouken uses the same contracts as Balancer V2 without making any changes. Balancer's audits can be found [here](https://docs.balancer.fi/security/audits).
 
-Hadouken uses Aave V2's contract with slight modifications to impose deposit and borrow caps for better risk control. We went through two audits on Hadouken Lending prior to the launch.
+Hadouken also uses Aave V2's contracts with slight modifications to impose deposit and borrow caps for better risk control. Hadouken Lending went through two audits prior to its launch.
 
 [**PeckShield - completed October 21, 2022**](https://1drv.ms/b/s!Aot8Vy9KXZMXzES5C9Yd\_GtwPCgR?e=KAQYo3)
 
