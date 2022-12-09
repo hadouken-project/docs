@@ -21,7 +21,7 @@
 
 ## FAQs
 
-* [FAQs](using-hadouken/trade-tokens.md)
+* [FAQs](faqs/faqs.md)
 
 ## Community
 
