@@ -1,14 +1,5 @@
 # Deployments
 
-**Godwoken Mainnet**
-
-| Contract         | Address                                    |
-| ---------------- | ------------------------------------------ |
-| Lending Owner    | 0x7b761E6f5C129544a6663Bcb8741940604A65AF3 |
-| Lending Deployer | 0x2661a4786ea12b7edfd3f5c08ff617702360a993 |
-| Swap Owner       | 0x7b761E6f5C129544a6663Bcb8741940604A65AF3 |
-| Swap Deployer    | 0xbb91644f26b075bda47a13682dad006eb9d70867 |
-
 **Liquidity Pools**
 
 | Pool Symbol                   | Address                                    |
@@ -39,4 +30,13 @@
 | WBTC  | 0x82455018F2c32943b3f12F4e59D0DA2FAf2257Ef |
 | BNB   | 0xBAdb9b25150Ee75bb794198658A4D0448e43E528 |
 
-****
+**Lending Vault :** 0x50ff8715e9882a6a184d51d0952db1eb311d1988
+
+**Godwoken Mainnet**
+
+| Contract         | Address                                    |
+| ---------------- | ------------------------------------------ |
+| Lending Owner    | 0x7b761E6f5C129544a6663Bcb8741940604A65AF3 |
+| Lending Deployer | 0x2661a4786ea12b7edfd3f5c08ff617702360a993 |
+| Swap Owner       | 0x7b761E6f5C129544a6663Bcb8741940604A65AF3 |
+| Swap Deployer    | 0xbb91644f26b075bda47a13682dad006eb9d70867 |
