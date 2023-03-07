@@ -20,6 +20,10 @@ Here is a comprehensive list of bridged tokens currently supported by Hadouken:
 | BUSD\|bsc  | BUSD (via Force Bridge from BNB Chain) | 0xD07920d57F400D89d62535D50eb9D1200ed7821B |
 | USDC\|bsc  | USDC (via Force Bridge from BNB Chain) | 0xfA307CfdEA89DC197A346c338a98aC85d517af6e |
 | USDT\|bsc  | USDT (via Force Bridge from BNB Chain) | 0xDFF2faCdFe47C1D5b51f18231f900949F1d5988f |
+| ceUSDC     | Celer USDC (via Celer Bridge)          | 0x53bB26dc8C5EFC6c95C37155aCa487d1D043436a |
+| ceUSDT     | Celer USDT (via Celer Bridge)          | 0x3c790b38f466514ffCB4230e7B2334e52B64c942 |
+| ceETH      | Celer ETH (via Celer Bridge)           | 0xB66954619363145a05eF835547449EB9050d82f6 |
+| ceWBTC     | Celer WBTC (via Celer Bridge)          | 0x1C428a6539A40eC5Bb481631266a51cd19b233B1 |
 
 ## hTokens
 
