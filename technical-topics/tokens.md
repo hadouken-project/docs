@@ -4,7 +4,7 @@ Hadouken supports all Godwoken-enabled assets including [pCKB](https://docs.godw
 
 ## Bridged Tokens
 
-Ethereum-native assets on Godwoken are brought over by a Hadouken-customised implementation of [Force Bridge](https://forcebridge.com/bridge/Ethereum/Nervos). Force Bridge supports many ERC-20 (from Ethereum) and BEP-20 (from Binance Smart Chain) tokens, but Hadouken only supports a subset of those tokens to start. There are both ERC-20 and BEP-20 versions of USDC and USDT available on Hadouken, as well as liquidity pools to swap between the two.
+Ethereum-native assets on Godwoken are brought over by a Hadouken-customised implementation of [Force Bridge](https://forcebridge.com/bridge/Ethereum/Nervos). Force Bridge supports many ERC-20 (from Ethereum) and BEP-20 (from Binance Smart Chain) tokens, but Hadouken only supports a subset of those tokens to start. There are both ERC-20 and BEP-20 versions of USDC and USDT available on Hadouken, as well as liquidity pools to swap between the two. Hadouken also supports tokens bridged using the Celer bridge and Multichain bridge.
 
 Here is a comprehensive list of bridged tokens currently supported by Hadouken:
 
